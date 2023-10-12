@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Boost9898
-- 📫 How to reach me => mail@brambenik.nl
+👋 Hi, I’m @Boost9898
