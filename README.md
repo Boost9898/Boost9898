@@ -19,7 +19,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![BrightSign](https://img.shields.io/badge/BrightSign-000000?style=flat&logo=brightsign&logoColor=white)
 
 ### Back-End Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
@@ -37,6 +37,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=flat&logo=vitest&logoColor=white)
 ![Cookies](https://img.shields.io/badge/Cookies-%23FDA61F.svg?style=flat&logo=cookie&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
